@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Manisha-S09/Manisha-S09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Manisha! 👋
 
-Here are some ideas to get you started:
+🎓 MSc Artificial Intelligence student at Ulster University, UK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Former Software Quality Engineer at Infosys with nearly 4 years of industry experience.
+
+### About Me
+- Currently learning Artificial Intelligence and Machine Learning.
+- Interested in Python, Data Analytics and intelligent systems.
+- Building practical technical projects alongside my postgraduate studies.
+- Passionate about solving real-world problems through technology.
+
+### Technical Interests
+- Python
+- Artificial Intelligence
+- Machine Learning
+- SQL
+- Data Analysis
+- Software Testing
+- Data Preprocessing
+- Knowledge Engineering
+
+### Projects
+- Automated Software Test Failure Analysis (In Progress)
+- Data Cleaning and Preprocessing
+- Belfast Cultural Heritage Ontology (Academic Project)
+
+### Current Goal
+Developing practical AI skills and building a portfolio of projects.
+
+📫 Connect with me on LinkedIn!
